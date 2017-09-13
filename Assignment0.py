@@ -1,0 +1,1 @@
+print("This is Assignment 0 of ELEC 576")
